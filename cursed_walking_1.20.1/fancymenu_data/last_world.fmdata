@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/user/AppData/Roaming/.minecraft/versions/Cursed Walking - A Modern Zombie Apocalypse Cursed Walking-1.20.1 V2.1.2/saves/Новый мир
+}
+
